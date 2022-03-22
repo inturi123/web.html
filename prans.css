@@ -1,0 +1,34 @@
+body{
+	background-image: url("https://media.gettyimages.com/photos/tulip-garden-picture-id146848101");
+}
+.title >h1{
+	
+    padding-left:40rem;
+	font-size:40px;
+   
+    
+}
+.ipl{
+	text-align:center;
+    padding-left:15rem;
+	font-weight:bold;
+}
+.imag1{
+    position: absolute;
+    display: inline-block;
+    margin-right: 0px; 
+    padding-right: 500px;;
+    
+    
+}
+.imag2{
+    display:inline-block;
+    margin-left: 1000px;
+    
+}
+.imag3{
+    display:inline-block;
+    position:relative;
+    margin-left: 520px;
+    margin-bottom: 50px;
+}
